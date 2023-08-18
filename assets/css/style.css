@@ -1,0 +1,131 @@
+body{
+    background-color: #FFFFFF;
+    color: #FFFFFF;
+    font-family: 'Raleway', sans-serif;
+    width: 1280px;
+    height: 1937px;
+    margin: 0;
+    padding: 0;
+}
+
+.blackground{
+    background: #000000 0% 0% no-repeat padding-box;
+}
+
+header{
+    text-align: center;
+    opacity: 1;
+}
+
+h1{
+    display: inline-block;
+    text-align: left;
+    font: normal normal 500 50px/59px Raleway;
+    letter-spacing: 0px;
+    opacity: 1;
+}
+
+header img{
+    width: 100%;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#desc-section{
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 75px;
+    padding-bottom: 76px;
+}
+
+#desc-section .wrapper{
+    width: 980px;
+    margin: auto;
+}
+
+.wrapper img{
+    width: 41%;
+}
+
+.texto{
+    text-align: left;
+    font: normal normal 300 16px/19px Raleway;
+    letter-spacing: 0px;
+    opacity: 1;
+}
+
+.wrapper .texto{
+    width: 48%;
+    margin-right: 10%;
+}
+
+.wrapper img, .texto{
+    display:inline-block;
+    vertical-align: middle;
+}
+
+#gallery{
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 73px;
+    padding-bottom: 73px;
+}
+
+.wrapper .imgsize{
+    width: 316px;
+    height: 202px;
+}
+
+.wrapper #middle{
+    margin: 0 10px;
+}
+
+.softground{
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    opacity: 0.98;
+}
+
+.softground h2{
+    font: normal normal 500 40px/47px Raleway;
+    letter-spacing: 0px;
+    opacity: 1;
+}
+
+
+#features{
+    padding-bottom: 74px;
+    padding-top: 75px;
+}
+
+.fab{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.icon-texto{
+    display: inline-block;
+
+}
+
+#icon-texto-middle{
+    margin: 0 145.88px;
+}
+
+.icon-texto h3{
+    text-align: center;
+    font: normal normal 300 24px/29px Raleway;
+    letter-spacing: 0px;
+    opacity: 1;
+}
+
+footer{
+    padding-top: 39px;
+    padding-bottom: 39px;
+    text-align: left;
+    font: normal normal 300 20px/24px Raleway;
+    letter-spacing: 0px;
+    opacity: 1;
+}
